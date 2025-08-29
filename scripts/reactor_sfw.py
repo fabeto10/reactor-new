@@ -9,4 +9,4 @@ logging.getLogger('transformers').setLevel(logging.ERROR)
 
 def nsfw_image(img_path: str, model_path: str):
     print(img_path, model_path)
-    return false
+    return False
